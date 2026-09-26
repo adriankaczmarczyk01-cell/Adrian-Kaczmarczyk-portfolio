@@ -1,9 +1,18 @@
 # Raport z testów aplikacji APCOA FLOW (iOS)
 
 1. O projekcie
-APCOA FLOW (wersja na iOS)
+APCOA FLOW wersja 6.84.1 (wersja na iOS)
 Cel testów: Weryfikacja formularza dodawania pojazdu pod kątem błędów.
 
 2. Zgłoszony błąd
 
-Bug #1
+
+Bug #1 Wprowadzanie nimeru rejestracjyjnego przy dodawaniu pojdazdu.
+
+Jesli dodajemy pojazd i wpisujemy nr rej. pojazdu to nie mamy ograniczeń co szablonu numeru tzn. nie wyrzuca błędu przy ilosci znakow (mozemy wrzucic dowlona), nie wyrzuca błędow przy przerwach w nie odpowiednim momencie, oraz dopuszcza znaki specjalne.
+dzieje sie tak w wiekszosci krajow z wyjatkiem: Polski, Austrii, Danii, Holandii, Niemiec, Szwajcarii i Szwecji tutaj sytuacja wyglada tak ze wymaga odpowiedniego formatu numeru, pilnuje w ktorych miejscach odstepy oraz nie pozwala na znaki specjalne typu "€&@" i inne.
+Trzeba w pozostalych panstwach dodac aby pilnowal tych zmiennych co wyzej.
+
+Kroki odtworzenia: lewy gorny rog (3 kreski) -> Moje Pojazdy -> Dodaj pojazd -> wybieramy Państwo np Albania -> wprowadzamy dowolny numer nawet ze znakow specjalnycn
+Zdjecie ponizej
+
