@@ -24,5 +24,6 @@ Zdjecie ponizej
 Bug #2 Black screen
 w ciagu testow kilka razy pojawil mi sie black screen
 jednak nie umiem wywolac tego błedu, pojawial sie randomowo zwykle jezeli intensywnie klikalem i przechodzilem miedzy aplikacjami, jednak kiedy probowalem wymusic nic takiego mi sie juz nie przydarzyło.
-nie wiem do konca czy to wina telefonu czy samej aplikacji, zdjecie rowniez zamieszczam w bibliotece 
+nie wiem do konca czy to wina telefonu czy samej aplikacji, zdjecie rowniez zamieszczam.
 
+![Opis zdjęcia](IMG_2169.jpeg)
