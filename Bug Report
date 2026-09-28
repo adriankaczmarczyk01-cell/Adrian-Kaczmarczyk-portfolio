@@ -12,6 +12,9 @@ Bug #1 Wprowadzanie nimeru rejestracjyjnego przy dodawaniu pojdazdu.
 Jesli dodajemy pojazd i wpisujemy nr rej. pojazdu to nie mamy ograniczeń co szablonu numeru tzn. nie wyrzuca błędu przy ilosci znakow (mozemy wrzucic dowlona), nie wyrzuca błędow przy przerwach w nie odpowiednim momencie, oraz dopuszcza znaki specjalne.
 dzieje sie tak w wiekszosci krajow z wyjatkiem: Polski, Austrii, Danii, Holandii, Niemiec, Szwajcarii i Szwecji tutaj sytuacja wyglada tak ze wymaga odpowiedniego formatu numeru, pilnuje w ktorych miejscach odstepy oraz nie pozwala na znaki specjalne typu "€&@" i inne.
 Trzeba w pozostalych panstwach dodac aby pilnowal tych zmiennych co wyzej.
+w krajach w ktorych wystepuje ten problem podczas proby zapisu samochodu wyrzuca blad ale tylko wtedy jesli mamy znak specjalny lub ilosc znakow powyzej 20, jezeli nie ma
+znaku specjalnego i jest 20 i mniej znakow pozwala zapisac 
+
 
 Kroki odtworzenia: lewy gorny rog (3 kreski) -> Moje Pojazdy -> Dodaj pojazd -> wybieramy Państwo np Albania -> wprowadzamy dowolny numer nawet ze znakow specjalnycn
 Zdjecie ponizej
