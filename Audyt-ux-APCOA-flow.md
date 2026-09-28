@@ -20,3 +20,11 @@ Intuicyjniejsza opcja byloby ustawic tak aby w darmowej strefie czasowej zostal 
 Zwiekszy to czytelnosc dla uzytkownika.
 
 ![Zrzut ekranu z wyborem czasu prakowania](IMG_2159.jpeg)
+
+Sugestia/błąd #2
+
+Cieżko mi stwierdzic czy to zamioerzone czy blad ale jezeli mamy dodany pojazd i damy edycje tego pojazu mozemy dodac leasing/wypozyczenie i zaznaczyc jako elektryk ale nie mozemy zmienic samych tablic
+Fajnie bylo by moc zmienic numery tablic w momencie kiedy przy dodawaniu zrobimy literowke, zreszta sama nazwa "edycja pojazdu" troche nam sugeruje i taka mozliwosc.
+
+![Zrzut ekranu z edycja pojazdu](IMG_2202.jpeg)
+
