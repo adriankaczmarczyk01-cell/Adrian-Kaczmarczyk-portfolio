@@ -1,4 +1,4 @@
-Mam 3 sugestie ktore moga troche usprawnic procesy uzytkownika w aplikacji, oraz dodac troch intuicyjnosci.
+Sugestia #1 Mam 3 sugestie ktore moga troche usprawnic procesy uzytkownika w aplikacji, oraz dodac troch intuicyjnosci.
 Sugestie 1,2 i 3 opisane po # ponizej ponimerowane jak opcje zaznaczone na zdjeciu
 
 
