@@ -4,5 +4,5 @@ pracowalem jako tester manualny przez prawie 4 lata
 chcialem sie dalej tym zajmowac i rozwijac w tym kierunku
 
 ## Moje Raporty i Audyty
-* [Raport Błędów APCOA FLOW](bug-report-apcoa.md)
-* [Audyt UX i Sugestie](Audyt-ux-APCOA-flow.md)
+* [Raport Błędów APCOA FLOW](Bug Report)
+* [ Audyt UX i Sugestie](Audyt-ux-APCOA-flow.md)
